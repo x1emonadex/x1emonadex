@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://x1emonadex.github.io"><img src="https://img.shields.io/badge/portfolio-x1emonadex.github.io-fce300?style=flat-square&labelColor=000000" alt="Портфолио"></a>
   <a href="https://x1emonadex.github.io/resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-fce300?style=flat-square&labelColor=000000" alt="Резюме в PDF"></a>
-  <a href="https://x1emonadex.github.io/resume.html"><img src="https://img.shields.io/badge/резюме-на сайте-fce300?style=flat-square&labelColor=000000" alt="Резюме на сайте"></a>
+  <a href="https://x1emonadex.github.io/resume.html"><img src="https://img.shields.io/badge/резюме_на_сайте-fce300?style=flat-square&labelColor=000000" alt="Резюме на сайте"></a>
 </p>
 
 ### О себе
